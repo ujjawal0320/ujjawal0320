@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujjawal0320
-- 👀 I’m interested in exploring new technogies and applyin it for solving real world problem
+- 👀 I’m interested in exploring new technogies and applying it for solving real world problem
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with real world projects 
 - 📫 How to reach me thakurujjawal@gmail.com
